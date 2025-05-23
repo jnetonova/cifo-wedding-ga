@@ -1,0 +1,9 @@
+# Jupyter and Python cache
+__pycache__/
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+
+# CSV output of best solution
+data/best_seating_plan.csv
